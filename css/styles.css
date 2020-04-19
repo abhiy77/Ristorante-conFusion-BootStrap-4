@@ -17,7 +17,7 @@
 }
 
 .jumbotron {
-    padding : 70px 30px 70px 30 px;
+    padding : 70px 30px 70px 30px;
     margin : 0px auto;
     background-color: #9575CD;
     color : floralwhite;
@@ -30,11 +30,18 @@
 
 }
 
-,body{
+.body{
     padding : 50px 0px 0px 0px;
     z-index: 0;
 }
 
 .navbar-dark{
     background-color: #512dab;
+}
+
+.tab-content{
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
