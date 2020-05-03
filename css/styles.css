@@ -60,3 +60,9 @@
     left: 0;
     min-height: 300px;
 }
+
+#carouselButton{
+    bottom : 0px;
+    right : 20px;
+    position : absolute;
+}
